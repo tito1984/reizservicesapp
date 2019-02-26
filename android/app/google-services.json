@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1098282418599",
+    "firebase_url": "https://reizgarden-d2eab.firebaseio.com",
+    "project_id": "reizgarden-d2eab",
+    "storage_bucket": "reizgarden-d2eab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098282418599:android:a1e3d1cb7e4845c4",
+        "android_client_info": {
+          "package_name": "com.reizgarden.reizservicesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098282418599-ajm06l3nq9rm1uc3f9n3uudct1rblp3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reizgarden.reizservicesapp",
+            "certificate_hash": "28612877b86a94106e4f47a09d11ce991fdfe444"
+          }
+        },
+        {
+          "client_id": "1098282418599-gdujiodaostrsn4r1445a8pkhsmol06b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm_-6n_9i51AHjK15IgSNTeIKATi-2wdc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098282418599-gdujiodaostrsn4r1445a8pkhsmol06b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
